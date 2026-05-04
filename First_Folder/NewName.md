@@ -9,5 +9,3 @@ change
 another
 
 also
-
-new

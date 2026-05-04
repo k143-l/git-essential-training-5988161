@@ -7,5 +7,3 @@ small change
 change
 
 another
-
-also
